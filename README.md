@@ -1,10 +1,13 @@
 ### Hello, my name is Pedro 👋
+Ethical hacking enthusiast and passionate about programming.
 
 ![Stark GitHub stats](https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=radical)
 
+### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_donatopedro)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-donato-a9aa42246/)
 
+### About Me
 - 🔭 I’m currently working Back-end
 - 💬 Ask me about Python and Information Security 
 - 📫 How to reach me: donatoordep@gmail.com
@@ -21,5 +24,4 @@
     
 </div><br/>
 
-Ethical hacking enthusiast and passionate about programming.
 ![Snake animation](https://github.com/zilohnoji/zilohnoji/blob/output/github-contribution-grid-snake.svg)
