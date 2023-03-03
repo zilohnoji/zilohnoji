@@ -13,6 +13,10 @@
 ### Technologies👨‍💻
 <div style="displays: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
