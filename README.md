@@ -1,6 +1,6 @@
 ### Hello, my name is Pedro 👋
 
-![Stark GitHub stats](https://github-readme-stats.vercel.app/api?username=SrStark666&show_icons=true&theme=radical)
+![Stark GitHub stats](https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=radical)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_donatopedro)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-donato-a9aa42246/)
