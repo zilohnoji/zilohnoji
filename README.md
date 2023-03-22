@@ -1,7 +1,7 @@
 ### Hello, my name is Pedro 👋
 Ethical hacking enthusiast and passionate about programming.
 
-![Stark GitHub stats](https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=radical)
+![Zilohnoji GitHub stats](https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=radical)
 
 ### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_donatopedro)
