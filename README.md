@@ -8,7 +8,7 @@ Ethical hacking enthusiast and passionate about programming.
 
 ### About Me
 - 🔭 I’m currently working Back-end
-- 💬 Ask me about Python and Information Security 
+- 💬 Ask me about Java, Python and Information Security 
 - 📫 How to reach me: donatoordep@gmail.com
 - 😄 Pronouns: His/He
 
