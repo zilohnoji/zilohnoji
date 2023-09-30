@@ -12,6 +12,12 @@ Ethical hacking enthusiast and passionate about programming.
 - 📫 How to reach me: donatoordep@gmail.com
 - 😄 Pronouns: His/He
 
+<div align="center">
+  <a href="https://github.com/arthuralvesdev">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilohnoji&layout=compact&langs_count=7&theme=dark"/>
+</div>
+      
 ### Technologies👨‍💻
 <div style="displays: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -21,10 +27,4 @@ Ethical hacking enthusiast and passionate about programming.
     <img align="center" alt="html5" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
     
-</div><br/>
-
-<div align="center">
-  <a href="https://github.com/arthuralvesdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=zilohnoji&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zilohnoji&layout=compact&langs_count=7&theme=dark"/>
 </div>
