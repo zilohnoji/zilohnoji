@@ -1,11 +1,6 @@
 ### Hello, my name is Pedro 👋
 Ethical hacking enthusiast and passionate about programming.
 
-
-### Social Media
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_donatopedro)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-donato-a9aa42246/)
-
 ### About Me
 - 🔭 I’m currently working Back-end
 - 💬 Ask me about Java, Python and Information Security 
@@ -26,5 +21,8 @@ Ethical hacking enthusiast and passionate about programming.
     <img align="center" alt="html5" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white">
-    
 </div>
+
+### Social Media
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_donatopedro)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-donato-a9aa42246/)
