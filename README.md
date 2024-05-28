@@ -111,27 +111,19 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
 
 <a href="https://www.linkedin.com/in/pedro-donato-a9aa42246/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  pedro donato-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
-<br>
-
 <a href="mailto:donatopedro.developer@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: donatopedro.developer-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-<br>
-
 <a href="https://instagram.com/_donatopedro" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
-
-<br>
 
 </div>
 
