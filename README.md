@@ -113,7 +113,7 @@
 
 <div align='left'>
 
-<a href="https://www.linkedin.com/in/pedro-donato-a9aa42246/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-donato-developer/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  pedro donato-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
