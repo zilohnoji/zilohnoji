@@ -15,7 +15,7 @@
 
 - A passionate Self-taught Back-end Developer
 - Currently learning Web Development by Self
-- Personal website [link](https://donatopedro.tech)
+- Personal website [link]([https://donatopedro.tech](https://donatopedro.up.railway.app/))
 - I’m currently open for an Intern or a new job opportunity
 
 <br>
