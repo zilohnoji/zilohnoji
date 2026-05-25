@@ -16,7 +16,7 @@
 - A passionate Self-taught Back-end Developer
 - Currently learning Web Development by Self
 - Personal website [link](https://donatopedro.up.railway.app/)
-- I’m currently working in XPTO
+- I’m currently working in BG Studios
 
 <br>
 
